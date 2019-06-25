@@ -7,4 +7,10 @@ public class GitTest {
         System.out.println("aaaaaaa");
         System.out.println("aaaaaaa");
     }
+
+
+    public void meth(){
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
+    }
 }
